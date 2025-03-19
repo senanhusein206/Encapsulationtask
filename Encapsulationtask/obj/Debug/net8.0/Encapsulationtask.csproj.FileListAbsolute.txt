@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Encapsulationtask\Encapsulationtask\bin\Debug\net8.0\Encapsulationtask.exe
+C:\Users\hp\source\repos\Encapsulationtask\Encapsulationtask\bin\Debug\net8.0\Encapsulationtask.deps.json
+C:\Users\hp\source\repos\Encapsulationtask\Encapsulationtask\bin\Debug\net8.0\Encapsulationtask.runtimeconfig.json
+C:\Users\hp\source\repos\Encapsulationtask\Encapsulationtask\bin\Debug\net8.0\Encapsulationtask.dll
+C:\Users\hp\source\repos\Encapsulationtask\Encapsulationtask\bin\Debug\net8.0\Encapsulationtask.pdb
+C:\Users\hp\source\repos\Encapsulationtask\Encapsulationtask\obj\Debug\net8.0\Encapsulationtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Encapsulationtask\Encapsulationtask\obj\Debug\net8.0\Encapsulationtask.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Encapsulationtask\Encapsulationtask\obj\Debug\net8.0\Encapsulationtask.AssemblyInfo.cs
+C:\Users\hp\source\repos\Encapsulationtask\Encapsulationtask\obj\Debug\net8.0\Encapsulationtask.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Encapsulationtask\Encapsulationtask\obj\Debug\net8.0\Encapsulationtask.dll
+C:\Users\hp\source\repos\Encapsulationtask\Encapsulationtask\obj\Debug\net8.0\refint\Encapsulationtask.dll
+C:\Users\hp\source\repos\Encapsulationtask\Encapsulationtask\obj\Debug\net8.0\Encapsulationtask.pdb
+C:\Users\hp\source\repos\Encapsulationtask\Encapsulationtask\obj\Debug\net8.0\Encapsulationtask.genruntimeconfig.cache
+C:\Users\hp\source\repos\Encapsulationtask\Encapsulationtask\obj\Debug\net8.0\ref\Encapsulationtask.dll
